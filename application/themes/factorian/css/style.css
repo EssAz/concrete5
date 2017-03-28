@@ -1,0 +1,102 @@
+#menu{
+	margin-bottom: 0;
+}
+
+.colBloc{
+	display: flex;
+	flex-direction: column;
+	
+}
+
+.group1{
+	margin-top: 80px;
+}
+
+.colBloc label{
+	margin-top: 10px;
+}
+
+.miniBloc img{
+	float:left;
+	margin-right: 7px;
+	height: 75px;
+}
+
+.miniBloc{
+	margin-bottom: 20px;
+}
+
+#bandeauContact{
+
+	height: 60px;
+	width: 100%;
+	margin:0;
+	margin-top: 80px;
+	background-color: #262626;
+}
+
+#bandeauContact text{
+	color:#000;
+	letter-spacing: 3px;
+	margin-top:30px;
+}
+
+#bandeauContact button{
+	margin-top:20px;
+}
+
+#labelExemple{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.group1 a{
+	margin-bottom: 0;
+	margin-top: 20px;
+	text-decoration: none;
+	color:#000;
+	font-weight: bold;
+}
+
+#bandeauInformation{
+	margin-top: 80px;
+	height:250px;
+	background-color: #262626;
+}
+
+#bandeauInformation div label{
+	margin-top: 20px;
+	color: white;
+	width: 100%;
+	text-align: center;
+
+}
+
+#bandeauInformation div ul li{
+	text-align: center;
+	list-style: none;
+	color:#A4A4A4;
+}
+
+#bandeauInformation div ul{
+	padding:0;
+}
+
+#bandeauInformation div label{
+	margin-bottom: 15px;
+}
+
+#bandeauInformation div text{
+	color:#A4A4A4;
+}
+
+#footer{
+	background-color: #000;
+}
+
+#footer label{
+	color:#fff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: normal;
+}
